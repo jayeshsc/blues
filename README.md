@@ -1,5 +1,9 @@
 # blues
+
+
 Blues is an Instagram Filter created using Spark AR
+<br>
+<i>This project was made in July 2021</i>
 
 <h1>Filter Preview</h1>
 
